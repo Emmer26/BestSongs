@@ -1,0 +1,14 @@
+body {
+background-color: #A2D2FF ;
+}
+p,h1,a{
+	 font-family: "Cause", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+
+}
+
+h1{
+	  color:white;
+}
